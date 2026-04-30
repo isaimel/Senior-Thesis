@@ -1,0 +1,14 @@
+{
+    "bedrock": 8,
+    "s_w_bedrock": 4,
+    "t_w_wall": 0.1,
+    "t_oc_wall": 0.1,
+    "t_ic_wall": 0.1,
+    "air": 4,
+    "t_w_rise": 1,
+    "t_ic_rise": 0.1,
+    "t_oc_rise": 0.1,
+    "s_w_rise": 1.0,
+    "s_oc_rise": 0.1,
+    "s_ic_rise":0.1
+}
